@@ -1,0 +1,5 @@
+# Ignore generated modules for each package
+node_modules/
+
+# Ignore genereated workspace by Joern
+workspace/
