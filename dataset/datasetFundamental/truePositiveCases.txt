@@ -63,7 +63,7 @@ trueEx22.js:3
 
 trueEx23.js:8
 
-trueEx24.js:8
+trueEx24.js:6
 
 trueEx25.js:6
 
